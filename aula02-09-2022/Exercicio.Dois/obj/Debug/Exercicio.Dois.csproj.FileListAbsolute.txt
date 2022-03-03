@@ -1,0 +1,8 @@
+C:\Users\facec.lab04\Desktop\aula 02-03-2022\aula02-09-2022\Exercicio.Dois\obj\Debug\Exercicio.Dois.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\Desktop\aula 02-03-2022\aula02-09-2022\Exercicio.Dois\obj\Debug\Exercicio.Dois.csproj.SuggestedBindingRedirects.cache
+C:\Users\facec.lab04\Desktop\aula 02-03-2022\aula02-09-2022\Exercicio.Dois\obj\Debug\Exercicio.Dois.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\Desktop\aula 02-03-2022\aula02-09-2022\Exercicio.Dois\bin\Debug\Exercicio.Dois.exe.config
+C:\Users\facec.lab04\Desktop\aula 02-03-2022\aula02-09-2022\Exercicio.Dois\bin\Debug\Exercicio.Dois.exe
+C:\Users\facec.lab04\Desktop\aula 02-03-2022\aula02-09-2022\Exercicio.Dois\bin\Debug\Exercicio.Dois.pdb
+C:\Users\facec.lab04\Desktop\aula 02-03-2022\aula02-09-2022\Exercicio.Dois\obj\Debug\Exercicio.Dois.exe
+C:\Users\facec.lab04\Desktop\aula 02-03-2022\aula02-09-2022\Exercicio.Dois\obj\Debug\Exercicio.Dois.pdb
